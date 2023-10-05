@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PersonalAccountingV1</string>
+    <string name="main_screen_title">Transfers</string>
+    <string name="add_account_button">Add new transfer</string>
+    <string name="first_name">Enter your first name</string>
+    <string name="last_name">Enter your last name</string>
+    <string name="amount">Enter the amount</string>
+    <string name="date">Enter the date</string>
+    <string name="date_support">Example: 10/05/2023</string>
+    <string name="Add_transaction">Add transaction</string>
 </resources>
